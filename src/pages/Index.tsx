@@ -59,8 +59,11 @@ const Index = () => {
                 textShadow: '4px 4px 0px rgba(0,0,0,0.5)',
                 fontFamily: 'monospace'
               }}>
-            MINECRAFT PRIVILEGES
+            SERKAN
           </h1>
+          <p className="text-2xl font-semibold mb-4 text-accent">
+            Один из лучших серверов в майнкрафт!
+          </p>
           <p className="text-xl mb-8 text-muted-foreground max-w-2xl mx-auto">
             Получи уникальные возможности на нашем сервере! 
             Выбери подходящую привилегию и стань частью элитного сообщества игроков.
